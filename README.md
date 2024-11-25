@@ -18,8 +18,8 @@ language:
 ## 支持的语言
 
 - 中文 (zh)
-- 日文 (ja)
-- 英文 (en)
+- [日文 (ja)](https://huggingface.co/Rvcmodel/rvc_model/blob/main/README_Ja.md " 日文 (ja)")
+- [英文 (en)](https://huggingface.co/Rvcmodel/rvc_model/blob/main/README_en.md "英文 (en)")
 
 ## 模型展示
 
@@ -54,3 +54,4 @@ language:
 如果你有任何问题或建议，请联系我们。
 
 ---
+
